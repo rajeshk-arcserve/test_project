@@ -6,5 +6,6 @@ class Sample
 	{
 	System.out.println("rajesh");
 		System.out.println("lokesh");
+		System.out.print("hi ra");
 }
 }
