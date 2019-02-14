@@ -1,11 +1,6 @@
-import java.io.*;
-
-class Sample
-{
-	public static void main(String args[])
-	{
-	System.out.println("rajesh");
-		System.out.println("lokesh");
-		System.out.print("hi ra");
-}
-}
+class Sample{  
+public static void main(String[] args){System.out.println("main with String[]");
+main();}
+public static void main(String args){System.out.println("main with String");}  
+public static void main(){System.out.println("main without args");}  
+}  
